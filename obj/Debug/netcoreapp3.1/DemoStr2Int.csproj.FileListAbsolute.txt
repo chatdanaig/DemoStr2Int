@@ -1,0 +1,13 @@
+C:\Users\chatdanaig\source\repos\DemoStr2Int\DemoStr2Int\bin\Debug\netcoreapp3.1\DemoStr2Int.exe
+C:\Users\chatdanaig\source\repos\DemoStr2Int\DemoStr2Int\bin\Debug\netcoreapp3.1\DemoStr2Int.deps.json
+C:\Users\chatdanaig\source\repos\DemoStr2Int\DemoStr2Int\bin\Debug\netcoreapp3.1\DemoStr2Int.runtimeconfig.json
+C:\Users\chatdanaig\source\repos\DemoStr2Int\DemoStr2Int\bin\Debug\netcoreapp3.1\DemoStr2Int.runtimeconfig.dev.json
+C:\Users\chatdanaig\source\repos\DemoStr2Int\DemoStr2Int\bin\Debug\netcoreapp3.1\DemoStr2Int.dll
+C:\Users\chatdanaig\source\repos\DemoStr2Int\DemoStr2Int\bin\Debug\netcoreapp3.1\DemoStr2Int.pdb
+C:\Users\chatdanaig\source\repos\DemoStr2Int\DemoStr2Int\obj\Debug\netcoreapp3.1\DemoStr2Int.csprojAssemblyReference.cache
+C:\Users\chatdanaig\source\repos\DemoStr2Int\DemoStr2Int\obj\Debug\netcoreapp3.1\DemoStr2Int.AssemblyInfoInputs.cache
+C:\Users\chatdanaig\source\repos\DemoStr2Int\DemoStr2Int\obj\Debug\netcoreapp3.1\DemoStr2Int.AssemblyInfo.cs
+C:\Users\chatdanaig\source\repos\DemoStr2Int\DemoStr2Int\obj\Debug\netcoreapp3.1\DemoStr2Int.csproj.CoreCompileInputs.cache
+C:\Users\chatdanaig\source\repos\DemoStr2Int\DemoStr2Int\obj\Debug\netcoreapp3.1\DemoStr2Int.dll
+C:\Users\chatdanaig\source\repos\DemoStr2Int\DemoStr2Int\obj\Debug\netcoreapp3.1\DemoStr2Int.pdb
+C:\Users\chatdanaig\source\repos\DemoStr2Int\DemoStr2Int\obj\Debug\netcoreapp3.1\DemoStr2Int.genruntimeconfig.cache
