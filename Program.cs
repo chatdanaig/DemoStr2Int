@@ -7,22 +7,20 @@ namespace DemoStr2Int
         static void StrToInt(string str)
         {
             int num = 0;
-            int n = str.Length;
-
-            for (int i = 0; i < n; i++)
+            foreach (char c in str)
             {
-                if (str[i] - 48 < 10) num = num * 10 + (str[i] - 48);
+                int value = c - '0';
+                if (value >= 0 && value < 10) num = (num * 10) + (value);
             }
-
-            Console.Write(num);
+            Console.WriteLine(num);
         }
 
         static void Main(string[] args)
         {
             string a = "abc573";
-            //string b = "a5b7c3";
+            string b = "a5b7c3";
             StrToInt(a);
-            //StrToInt(b);
+            StrToInt(b);
         }
 
     }

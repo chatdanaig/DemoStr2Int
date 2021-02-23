@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chatdanaig\\source\\repos\\DemoStr2Int\\DemoStr2Int\\DemoStr2Int.csproj": {}
+    "D:\\DemoAppman\\DemoStr2Int\\DemoStr2Int.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chatdanaig\\source\\repos\\DemoStr2Int\\DemoStr2Int\\DemoStr2Int.csproj": {
+    "D:\\DemoAppman\\DemoStr2Int\\DemoStr2Int.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chatdanaig\\source\\repos\\DemoStr2Int\\DemoStr2Int\\DemoStr2Int.csproj",
+        "projectUniqueName": "D:\\DemoAppman\\DemoStr2Int\\DemoStr2Int.csproj",
         "projectName": "DemoStr2Int",
-        "projectPath": "C:\\Users\\chatdanaig\\source\\repos\\DemoStr2Int\\DemoStr2Int\\DemoStr2Int.csproj",
+        "projectPath": "D:\\DemoAppman\\DemoStr2Int\\DemoStr2Int.csproj",
         "packagesPath": "C:\\Users\\chatdanaig\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chatdanaig\\source\\repos\\DemoStr2Int\\DemoStr2Int\\obj\\",
+        "outputPath": "D:\\DemoAppman\\DemoStr2Int\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chatdanaig\\AppData\\Roaming\\NuGet\\NuGet.Config",
