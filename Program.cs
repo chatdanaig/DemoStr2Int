@@ -7,9 +7,10 @@ namespace DemoStr2Int
         static void StrToInt(string str)
         {
             int num = 0;
-            foreach (char c in str)
+            int n = str.Length;
+            for (int i = 0; i < n; i++)
             {
-                int value = c - '0';
+                int value = (int)str[i] - 48;
                 if (value >= 0 && value < 10) num = (num * 10) + (value);
             }
             Console.WriteLine(num);
